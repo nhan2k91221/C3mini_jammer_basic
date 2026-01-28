@@ -80,7 +80,7 @@
 1. Connect ESP32-C3 via USB
 2. Select board: "ESP32-C3 Dev Module"
 3. Set Flash Mode: "QIO"
-4. Set Flash Size: "16MB"
+4. Set Flash Size: "4MB"
 5. Set CPU Frequency: "160MHz"
 6. Set Upload Speed: "921600"
 7. Upload the code
