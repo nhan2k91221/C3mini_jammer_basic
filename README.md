@@ -45,9 +45,9 @@
 ## 🛠️ Hardware Requirements
 
 ### Required Components:
-1. **ESP32-C3 SuperMini** (16MB Flash recommended)
+1. **ESP32-C3 SuperMini**
 2. **2x NRF24L01+ modules** (E01-2G4M27D or similar)
-3. **Power supply**: 3.3V stable source (≥500mA for both modules)
+3. **Power supply**: 3.3v stable source (≥500mA for both modules)
 4. **Breadboard and jumper wires**
 5. **USB cable** for programming
 
