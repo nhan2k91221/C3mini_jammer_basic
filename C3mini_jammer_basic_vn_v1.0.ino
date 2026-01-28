@@ -6,7 +6,7 @@
   GITHUB: https://github.com/NhanMinhz/C3mini_jammer_basic
   
   HARDWARE:
-    - ESP32-C3 SuperMini (16MB Flash)
+    - ESP32-C3 SuperMini
     - 2x NRF24L01 (E01-2G4M27D) modules
     - Pinout:
       NRF1: CE=20, CSN=21
@@ -26,7 +26,7 @@
   
   LICENSE: MIT
   VERSION: 1.0.0
-  LAST UPDATED: March 2024
+  LAST UPDATED: Jan 2026
   ==============================================================================
 */
 
